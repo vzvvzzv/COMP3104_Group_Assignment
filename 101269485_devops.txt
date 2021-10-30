@@ -1,0 +1,2 @@
+COMP3104, DevOps is a set of procedures, protocols and practices that increases productivity and development. It's a fifth semester course at George Brown Collegem, Computer Programmer Analyst program.
+It's about to analyze and evaluate the implementations to shorten the system development life cycle and improves software quality. It's very helpful for businesses with creating solutions to complex problems. Many DevOps aspects came from the Agile methodology.
