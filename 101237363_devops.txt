@@ -10,3 +10,4 @@ The course introduces end-to-end deployment processes. Practical use of DevOps a
 
 
 $$Line 6
+##commit 7
