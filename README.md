@@ -7,4 +7,7 @@ Elik - sample devops file
 Elik - Sample db file
 
 30 Oct 2021
-Elik - SAmple sdlc fie
+Elik - SAmple sdlc file
+
+30 Oct 2021
+Elik - sample sdlc file change
