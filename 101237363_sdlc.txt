@@ -1,0 +1,12 @@
+ SDLC
+==--==
+
+The term itself stands for Development Operations. This is not so much a specialty as an approach to organizing work in a medium or large company when preparing a product or service. 
+
+The fact is that different departments of the same company participate in the preparation process, and their actions are not always well coordinated. So, developers, for example, do not always know what problems users have when they work with a released program or service. 
+
+
+Technical support - knows everything perfectly, but she may not be aware of what is “inside” the software. And here the DevOps engineer comes to the rescue, who helps to coordinate the development process, contributes to the automation of processes, and improves their transparency. DevOps brings people, processes, and tools together.
+
+
+
