@@ -1,0 +1,13 @@
+DEVOPS
+==--==
+
+This course is designed to prepare IT Technology specially for latest need in our prattical industry. So mainly cover SERVER/WebAppliation/Cloud Computing and Automation.
+
+COMP 3104 provides hands-on experience with proven DevOps tools & technologies. It explains the methods by which companies have lost or saved fortunes. 
+
+Majorly we will Exploring Cloudcomputing like (Amazon Web Services/Azure,) Ansible for provisioning the infra, Docker for containerize system, and Travis CI for automate deployments.
+The course introduces end-to-end deployment processes. Practical use of DevOps allows you to simplify the process of submitting code to production servers, apply fixes, catch errors before they produce any unintended behavior.
+
+
+$$Line 6
+##commit 7
