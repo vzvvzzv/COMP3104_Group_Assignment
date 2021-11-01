@@ -1,2 +1,3 @@
 SDLC means Software Development Life Cycle and it's a process for planning, creating, testing and deploying an information system.
-It's very important for quality, time and cost efficiency. As an engineer, it's their duty to deliver a high-quality system that meets stakeholders' expectations in shortest time and efficient cost, so SDLC is an essential process to learn.
+It's very important for quality, time and cost efficiency.  
+As an engineer, it's their duty to deliver a high-quality system that meets stakeholders' expectations in shortest time and efficient cost, so SDLC is an essential process to learn.

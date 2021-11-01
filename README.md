@@ -9,4 +9,6 @@ Deniz Dogan / 101269485
 5 - Edited George Brown text file  
 6 - Edited DevOps text file  
 7 - Edited SDLC text file  
-8 - Improved lines in README.md and added student info
+8 - Improved lines in README.md and added student info  
+9 - Improved DevOps text file
+10 - Improved lines in all text files
