@@ -42,18 +42,24 @@ Elik - 101274713_sdlc file change
 ###################
 31 Oct 2021
 Adding Amanda - 101274713_sdlc file
-31 Oct 2021
-Updating Amanda - 101274713_sdlc file 
 
 31 Oct 2021
-Adding Amanda - 101274713_GB file 
+Updating Amanda - 101274713_sdlc file
+
 31 Oct 2021
-updatingAmanda - 101274713_GB file file
+Adding Amanda - 101274713_GB file
+
+31 Oct 2021
+updating Amanda - 101274713_GB file file
 
 31 Oct 2021
 Adding Amanda - 101274713_devops file
+
 31 Oct 2021
 Updating Amanda - 101274713_devops file
+
+31 Oct 2021
+Final Commit
 
 
 
