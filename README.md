@@ -46,11 +46,11 @@ Elik - 101274713_sdlc file change
 3 - Created 101237363_devops.txt file  
 4 - Created 101237363_gb.txt  file  
 5 - Created 101237363_sdlc.txt file  
-6 - Edited SDLC file with test words 
-7 - Edited Devops file  with test words
-8 - Edited GG file with test words 
-9 - Edited SDLC file with test words
-10 - Improved lines in all text files
+6 - Edited SDLC file with test words  
+7 - Edited Devops file  with test words  
+8 - Edited GG file with test words  
+9 - Edited SDLC file with test words  
+10 - Improved lines in all text files  
 
 31 Oct 2021
 Final Commit
