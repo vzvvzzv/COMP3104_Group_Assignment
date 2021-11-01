@@ -39,24 +39,18 @@ Elik - 101274713_sdlc file change
 
 
 101237363-Amanda
-###################
-31 Oct 2021
-Adding Amanda - 101274713_sdlc file
 
 31 Oct 2021
-Updating Amanda - 101274713_sdlc file
-
-31 Oct 2021
-Adding Amanda - 101274713_GB file
-
-31 Oct 2021
-updating Amanda - 101274713_GB file file
-
-31 Oct 2021
-Adding Amanda - 101274713_devops file
-
-31 Oct 2021
-Updating Amanda - 101274713_devops file
+1 - Created individual branch  
+2 - Using existing George Brown ReadMe.md text file  
+3 - Created 101237363_devops.txt file  
+4 - Created 101237363_gb.txt  file  
+5 - Created 101237363_sdlc.txt file  
+6 - Edited SDLC file with test words 
+7 - Edited Devops file  with test words
+8 - Edited GG file with test words 
+9 - Edited SDLC file with test words
+10 - Improved lines in all text files
 
 31 Oct 2021
 Final Commit
