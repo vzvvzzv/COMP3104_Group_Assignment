@@ -39,14 +39,24 @@ Elik - 101274713_sdlc file change
 
 
 101237363-Amanda
+###################
+31 Oct 2021
+Adding Amanda - 101274713_sdlc file
+31 Oct 2021
+Updating Amanda - 101274713_sdlc file 
+
+31 Oct 2021
+Adding Amanda - 101274713_GB file 
+31 Oct 2021
+updatingAmanda - 101274713_GB file file
 
 
 31 Oct 2021
-Amanda - 101274713_sdlc file change
+Adding Amanda - 101274713_devops file
 31 Oct 2021
-Amanda - 101274713_GB file change
-31 Oct 2021
-Amanda - 101274713_devops file change
+Updating Amanda - 101274713_devops file
+
+
 
 main
 main
