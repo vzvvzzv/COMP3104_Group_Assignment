@@ -5,3 +5,4 @@
 4 - Created SDLC text file
 5 - Edited George Brown text file
 6 - Edited DevOps text file
+7 - Edited SDLC text file
